@@ -1,0 +1,6 @@
+﻿,,,
+Soil Type,Description,Density Range (MPa),
+Soft / Regular Soil,Labourers able to trench with hand tools (spade only),0,10
+Medium / Clay Soil,Labourers able to trench with hand tools (pick & spade),>10,20
+Hard Soil,Specialist Labourers able to trench with mechanical aids (pneumatic soil breaker),>20,50
+Rock / No Penetrometer,"Heavy mechanical aids required (pneumatic jack hammers, breaker, drill, rock saw) are required to reach minimum depth",>50,>>50
