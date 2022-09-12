@@ -1,3 +1,5 @@
+En français : [INDEX-fr.md](/INDEX-fr.md)
+
 ## Introduction
 
 The data accessible via this GitHub repo was gathered using the process described in this Engineering at Meta blog post:
