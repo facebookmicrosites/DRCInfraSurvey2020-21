@@ -27,3 +27,11 @@ See [CONTRIBUTING](CONTRIBUTING.md) for how to help out.
 
 ## License
 **DRC\_Infra\_Survey\_2020-21** is provided under Creative Commons Attribution 4.0 International Public License as described in [LICENSE](LICENSE.md).
+
+## Terms of Use
+ * [https://opensource.fb.com/legal/terms](https://opensource.fb.com/legal/terms)
+
+## Privacy Policy
+ * [https://opensource.fb.com/legal/privacy](https://opensource.fb.com/legal/privacy)
+
+Copyright ©2022 Meta Platforms, Inc.
